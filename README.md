@@ -1,2 +1,2 @@
-# matlab
-MATLAB - Reinforcement Learning
+# MATLAB
+Reinforcement Learning
